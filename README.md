@@ -48,5 +48,5 @@ if __name__ == '__main__':
 echo Hello! Jjoon!
  ```
 # 더 할말😊
-![포노포요](https://github.com/Jjoon0513/Jjoon0513/assets/82186614/5d7abea0-2a33-48b1-8151-c89ddd22dcc6)
+
 포노포요의 귀여움은 **천하무적!**
