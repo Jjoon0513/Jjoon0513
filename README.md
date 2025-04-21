@@ -1,4 +1,4 @@
-
+![](https://github-readme-stats.vercel.app/api?username=Jjoon0513&show_icons=true&theme=radical)
 # 안녕하신감! 👋
 저는 코딩 3년차 프로그래머 :)  
 현재 다루는 언어는 **Python,Java,C#,Batch** 입니다!
