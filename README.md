@@ -19,26 +19,21 @@ public class Program
 }
  ```
 C#에서는 주로 **WPF앱**이나 **Unity**를 주로 작업합니다
-아직 C#은 배운지 얼마 되지 않아 아직 능숙하게 다루진 못하지만
-지원되는것들이 많아 열심히 배우고 있습니다
 ### Kotlin
 ```kotlin
-public class Main
-{
-	public static void main(String[] args) {
-		System.out.println("Hello! Jjoon!");
-	}
+fun main(){
+    Println("Hello! Jjoon!")
 }
 
  ```
-Kotlin으는 **마인크래프트 Forge모드**를 작업하지만 
-아직 배우는 중이라서 많은 프로젝트를 하진 않습니다
+Kotlin으는 **마인크래프트 Forge모드**를 작업합니다
 ### Python
-주로 사용하는 언어입니다.
+
 ```python
 if __name__ == '__main__':
 	print("Hello! Jjoon!")
 ```
+주로 사용하는 언어입니다.
 
 ### Cherry Blossom
 ```cpp
@@ -48,3 +43,6 @@ println("Hello Jjoon!")
 
 end
 ```
+현재 개발하고 있는 언어입니다
+파이썬으로 개발되고 있으며
+[체리 블라썸 컴파일러](https://github.com/CherryBlossomFoundation/CherryBlossom) 여기서 확인하실수 있읍니다
