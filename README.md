@@ -9,9 +9,9 @@
 현재 다루는 언어는 **Python,Kotlin,C#,CherryBlossom** 입니다!
 
 # 다른 프로젝트들 😎
-[ISDD](https://github.com/isddcompany)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CherryBlossomFoundation&repo=CherryBlossom)](https://github.com/CherryBlossomFoundation/CherryBlossom)
 
-[Cherry Blossom 언어](https://github.com/cherryblossomfoundation)
+
 
 
 # 코딩으로 무엇을 주로..? 🖥️
