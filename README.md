@@ -1,6 +1,8 @@
 ![](https://github-readme-stats.vercel.app/api?locale=kr&username=Jjoon0513&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjoon0513&locale=kr&hide=C%23,java)](https://github.com/anuraghazra/github-readme-stats)
+[![Jjoon 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=Jjoon0513&layout=compact&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # 안녕하신감! 👋
 저는 코딩 3년차 프로그래머 :)  
