@@ -1,5 +1,4 @@
-[![Jjoon 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=Jjoon0513&layout=compact&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoon0513&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # 안녕하신감! 👋
 저는 코딩 3년차 프로그래머 :)  
 현재 다루는 언어는 **Python,Kotlin,C#,CherryBlossom** 입니다!
