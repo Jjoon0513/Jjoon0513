@@ -1,4 +1,22 @@
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoon0513&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+```rust
+enum Me {
+    Hug,
+}
+
+fn give(me: Me) {
+    println!("{}", if let Me::Hug = me { "Give me HUG" } else {""});
+}
+
+fn main() {
+    for _ in 0..1000{
+        give(Me::Hug);
+    }
+}
+```
 # 안녕하신감! 👋
 저는 코딩 3년차 프로그래머 :)  
 현재 다루는 언어는 **Python,Kotlin,C#,CherryBlossom** 입니다!
