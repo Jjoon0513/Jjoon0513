@@ -12,7 +12,7 @@ fn give(me: Me) {
 }
 
 fn main() {
-    for _ in 0..1000{
+    loop{
         give(Me::Hug);
     }
 }
