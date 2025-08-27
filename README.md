@@ -55,11 +55,11 @@ if __name__ == '__main__':
 
 ### Cherry Blossom
 ```cpp
-begin main
+f main() -> int {
 
-println("Hello Jjoon!")
+	println("Hello Jjoon!")
 
-end
+}
 ```
 현재 개발하고 있는 언어입니다
 파이썬으로 개발되고 있으며
