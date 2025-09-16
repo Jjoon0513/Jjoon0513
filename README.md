@@ -19,7 +19,7 @@ fn main() {
 ```
 # 안녕하신감! 👋
 저는 코딩 3년차 시스템 프로그래머 :)  
-현재 다루는 언어는 **Python,Kotlin,C#,CherryBlossom** 입니다!
+현재 다루는 언어는 **Python,Rust,C#,CherryBlossom** 입니다!
 
 # 대표 프로젝트들 😎
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CherryBlossomFoundation&repo=CherryBlossom)](https://github.com/CherryBlossomFoundation/CherryBlossom)
