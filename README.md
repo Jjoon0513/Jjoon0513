@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
 ### Cherry Blossom
 ```c
-fmain() -> int {
+f main() -> int {
     println("Hello Jjoon!")
 }
 ```
