@@ -43,21 +43,20 @@ fn main(){
 }
 
  ```
-Kotlin으는 **마인크래프트 Forge모드**를 작업합니다
+주로 사용하는 언어입니다
 ### Python
 
 ```python
 if __name__ == '__main__':
-	print("Hello! Jjoon!")
+    print("Hello! Jjoon!")
 ```
-주로 사용하는 언어입니다.
+주로 사용하**던** 언어입니다.
+파이썬으로는 AI를 주로 작업합니다
 
 ### Cherry Blossom
 ```cpp
 f main() -> int {
-
-	println("Hello Jjoon!")
-
+    println("Hello Jjoon!")
 }
 ```
 현재 개발하고 있는 언어입니다
