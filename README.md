@@ -54,8 +54,8 @@ if __name__ == '__main__':
 파이썬으로는 AI를 주로 작업합니다
 
 ### Cherry Blossom
-```cpp
-f main() -> int {
+```ansi
+[31mf[0m main() -> int {
     println("Hello Jjoon!")
 }
 ```
