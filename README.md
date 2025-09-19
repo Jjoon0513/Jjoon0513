@@ -12,9 +12,8 @@ fn give(me: Me) {
 }
 
 fn main() {
-    loop{
-        give(Me::Hug);
-    }
+    give(Me::Hug);
+    
 }
 ```
 # 안녕하신감! 👋
@@ -37,10 +36,10 @@ public class Program
 }
  ```
 C#에서는 주로 **WPF앱**이나 **Unity**를 주로 작업합니다
-### Kotlin
-```kotlin
-fun main(){
-    Println("Hello! Jjoon!")
+### Rust
+```rust
+fn main(){
+    println!("Hello! Jjoon!");
 }
 
  ```
