@@ -52,13 +52,3 @@ if __name__ == '__main__':
 ```
 주로 사용하**던** 언어입니다.
 파이썬으로는 AI를 주로 작업합니다
-
-### Cherry Blossom
-```c
-f main() -> int {
-    println("Hello Jjoon!")
-}
-```
-현재 개발하고 있는 언어입니다
-파이썬으로 개발되고 있으며
-[체리 블라썸 컴파일러](https://github.com/CherryBlossomFoundation/CherryBlossom) 여기서 확인하실수 있읍니다
