@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoon0513&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/ba63e96e-b35f-44b5-a94c-325c1a6b2c31.svg)](https://wakatime.com/@ba63e96e-b35f-44b5-a94c-325c1a6b2c31)
+
 ```rust
 enum Me {
     Hug,
