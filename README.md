@@ -23,8 +23,8 @@ fn main() {
 현재 다루는 언어는 **Python,Rust,C#,CherryBlossom** 입니다!
 
 # 대표 프로젝트들 😎
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CherryBlossomFoundation&repo=CherryBlossom)](https://github.com/CherryBlossomFoundation/CherryBlossom)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsddCompany&repo=ISDDAPPkot)](https://github.com/IsddCompany/ISDDAPPkot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=CherryBlossom)](https://github.com/Jjoon0513/CherryBlossom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=micro)](https://github.com/Jjoon0513/micro)
 
 # 코딩으로 무엇을 주로..? 🖥️
 ### C#
