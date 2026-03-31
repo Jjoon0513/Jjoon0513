@@ -55,3 +55,13 @@ if __name__ == '__main__':
 ```
 주로 사용하**던** 언어입니다.
 파이썬으로는 AI를 주로 작업합니다
+
+
+---
+$$
+\begin{aligned}
+bug_n &= \left(\frac{coffee}{sleep}\right)^n + \text{Jjoon} \\
+n &\in \mathbb{N} \\
+\text{Jjoon} &= \text{Me}
+\end{aligned}
+$$
