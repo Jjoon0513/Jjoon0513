@@ -19,8 +19,8 @@ fn main() {
 }
 ```
 # 안녕하신감! 👋
-저는 코딩 3년차 시스템 프로그래머 :)  
-현재 다루는 언어는 **Python,Rust,C#,CherryBlossom** 입니다!
+저는 코딩 3년차 저수준, 시스템 프로그래머 :)  
+현재 다루는 언어는 **Python,Rust, Assembly** 입니다!
 
 # 대표 프로젝트들 😎
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=CherryBlossom)](https://github.com/Jjoon0513/CherryBlossom)
@@ -28,25 +28,38 @@ fn main() {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=miux)](https://github.com/Jjoon0513/miux)
 
 # 코딩으로 무엇을 주로..? 🖥️
-### C#
-```java
-public class Program
-{
-	public static void Main()
-	{
-                 Console.WriteLine("Hello! Jjoon!");
-	}
-}
- ```
-C#에서는 주로 **WPF앱**이나 **Unity**를 주로 작업합니다
+
 ### Rust
 ```rust
 fn main(){
     println!("Hello! Jjoon!");
 }
-
  ```
 주로 사용하는 언어입니다
+
+### Assembly {Nasm(주로 사용), Gas(AArch64, x86-64)}
+```asm
+section .data
+    msg db "Hello! Jjoon!", 10
+    len equ $ - msg
+
+section .text
+    global _start
+
+_start:
+    mov rax, 1
+    mov rdi, 1
+    mov rsi, msg
+    mov rdx, len
+    syscall
+
+_exit:
+    mov rax, 60
+    xor rdi, rdi
+    syscall
+```
+매우 저수준을 다룰때 사용합니다 보통 **Rust**와 연계하거나 새로운 언어 제작, MCP를 프로그래밍 할때 사용합니다
+
 ### Python
 
 ```python
