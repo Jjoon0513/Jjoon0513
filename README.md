@@ -25,7 +25,7 @@ fn main() {
 # 대표 프로젝트들 😎
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=CherryBlossom)](https://github.com/Jjoon0513/CherryBlossom)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=micro)](https://github.com/Jjoon0513/micro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=miux)](https://github.com/Jjoon0513/miux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=Lucid)](https://github.com/Jjoon0513/Lucid)
 
 # 코딩으로 무엇을 주로..? 🖥️
 
