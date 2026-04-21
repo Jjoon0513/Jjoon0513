@@ -20,7 +20,7 @@ fn main() {
 ```
 # 안녕하신감! 👋
 저는 코딩 3년차 저수준, 시스템 프로그래머 :)  
-현재 다루는 언어는 **Python,Rust, Assembly** 입니다!
+현재 다루는 언어는 **Python, Rust, Assembly** 입니다!
 
 # 대표 프로젝트들 😎
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=CherryBlossom)](https://github.com/Jjoon0513/CherryBlossom)
