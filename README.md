@@ -14,7 +14,7 @@ fn main() { give(Me::Hug); }
 
 # 안녕하신감! 👋
 
-**3년차 저수준 · 시스템 프로그래머**
+**4년차 저수준 · 시스템 프로그래머**
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://nasm.us/)
