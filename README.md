@@ -73,7 +73,7 @@ Rust 연계 / 언어 제작 / 컴파일러 작성
 </td>
 <td width="33.3%">
 
-### 🐍 Python — AI 작업용
+### 🐍 Python
 
 ```python
 if __name__ == '__main__':
