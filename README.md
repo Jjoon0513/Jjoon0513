@@ -108,7 +108,7 @@ if __name__ == '__main__':
 [![rustVM](https://github-readme-stats.vercel.app/api/pin/?username=Jjoon0513&repo=rustVM&theme=dark)](https://github.com/Jjoon0513/rustVM)
 
 **⚙️ rustVM**  
-Rust(`no_std`)로 작성한 커스텀 가상 머신.  
+Rust로 작성한 커스텀 가상 머신.  
 16개의 범용 레지스터, 64KB 메모리 버스,  
 권한 시스템과 MMIO 디바이스까지 직접 구현 중.
 
